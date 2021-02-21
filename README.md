@@ -1,6 +1,5 @@
 # NativePayload_TId
 Remote Thread Injection by C# Delegate
-
 -----------------------
 Related Links for "Mitre ATT&CK" : 
 
