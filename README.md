@@ -2,7 +2,7 @@
 Remote Thread Injection by C# Delegate
 
 -----------------------
-Related Links for "Mitre ATT&CK" : 
+Related Links for "Mitre ATT&CK": 
 
 Process Injection: Portable Executable Injection ==>  https://attack.mitre.org/techniques/T1055/002/
 
