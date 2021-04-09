@@ -41,5 +41,31 @@ online eBook, (chapters): https://damonmohammadbagher.github.io/Posts/ebookBypas
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TIdnt.jpeg)
 
+------------------------------------------------
 
+    Code1 step1: NativePayload_TId2.exe [TPID] [PAYLOAD]
+
+    Code2 step2: NativePayload_TId3.exe [TPID] [VAx-addr or VirtualAllocEx Address from step1]
+
+
+    EXAMPLE: NativePayload_TId2.exe 2452 "FC,48,83,00,..."
+
+    EXAMPLE: NativePayload_TId3.exe 2452 1bfc0190000
+
+------------------------------------------------
+
+    NativePayload_TImd.exe [steps 1 or 2] [delay 2000]  [MemoryProtection/mode 0 or 1] [TPID 4716]  [payload fc,48,..]
+    
+    example: NativePayload_TImd.exe  1  2000  0  4716  fc,48,56,...
+    
+    example: NativePayload_TImd.exe  2  6721  1  4716  fc,48,56,...
+    
+        step = 1  you will have 4 steps (default)
+    
+        step = 2  you will have 28 steps
+    
+        MemoryProtection = 0  API::VirtualAllocEx set to MemoryProtection.ExecuteReadWrite
+    
+        MemoryProtection = 1  API::VirtualAllocEx set to MemoryProtection.Execute
+    
 
