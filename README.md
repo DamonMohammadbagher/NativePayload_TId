@@ -51,6 +51,11 @@ online eBook, (chapters): https://damonmohammadbagher.github.io/Posts/ebookBypas
     EXAMPLE: NativePayload_TId2.exe 2452 "FC,48,83,00,..."
 
     EXAMPLE: NativePayload_TId3.exe 2452 1bfc0190000
+    
+    
+step by step => Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part3)
+
+https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/blob/master/CH14/Bypassing%20Anti%20Viruses%20by%20C%23.NET%20Programming%20Chapter%2014%20-Part3.pdf
 
 ------------------------------------------------
 
@@ -69,3 +74,6 @@ online eBook, (chapters): https://damonmohammadbagher.github.io/Posts/ebookBypas
         MemoryProtection = 1  API::VirtualAllocEx set to MemoryProtection.Execute
     
 
+step by step => Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part3)
+
+https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/blob/master/CH14/Bypassing%20Anti%20Viruses%20by%20C%23.NET%20Programming%20Chapter%2014%20-Part3.pdf
