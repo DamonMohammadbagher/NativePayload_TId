@@ -77,3 +77,5 @@ https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/blob/master/CH
 step by step => Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part3)
 
 https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/blob/master/CH14/Bypassing%20Anti%20Viruses%20by%20C%23.NET%20Programming%20Chapter%2014%20-Part3.pdf
+
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_TId"/></a></p>
